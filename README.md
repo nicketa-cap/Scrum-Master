@@ -10,3 +10,7 @@
 
 
 Or run directly {code}python agent.py{code}
+
+---
+
+Github url: https://github.com/nicketa-cap/Scrum-Master.git
